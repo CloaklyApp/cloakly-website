@@ -158,3 +158,4 @@ Potential improvements:
 ---
 
 Built with ❤️ for privacy-conscious users worldwide.
+
